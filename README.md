@@ -1,3 +1,26 @@
+## sandbox (kinetic) - 0.0.12-0
+
+The packages in the `sandbox` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic sandbox` on `Wed, 07 Jun 2017 11:51:12 -0000`
+
+The `catkin_test_pkg` package was released.
+
+Version of package(s) in repository `sandbox`:
+
+- upstream repository: https://github.com/LCAS/sandbox.git
+- release repository: https://github.com/LCAS/sandbox-release.git
+- rosdistro version: `0.0.5-0`
+- old version: `0.0.11-0`
+- new version: `0.0.12-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.4`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## sandbox (kinetic) - 0.0.11-0
 
 The packages in the `sandbox` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic sandbox` on `Wed, 07 Jun 2017 11:49:40 -0000`
