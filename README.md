@@ -1,3 +1,26 @@
+## sandbox (melodic) - 0.0.14-1
+
+The packages in the `sandbox` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic sandbox` on `Thu, 07 Nov 2019 14:53:17 -0000`
+
+The `catkin_test_pkg` package was released.
+
+Version of package(s) in repository `sandbox`:
+
+- upstream repository: https://github.com/LCAS/sandbox.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.14-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## sandbox (kinetic) - 0.0.14-0
 
 The packages in the `sandbox` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic sandbox` on `Wed, 07 Jun 2017 12:12:22 -0000`
