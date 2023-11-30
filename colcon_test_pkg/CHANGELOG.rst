@@ -1,6 +1,13 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package catkin_test_pkg
+Changelog for package colcon_test_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1.0.1 (2023-11-30)
+------------------
+* trigger rebuild
+* initial version
+* initial version for humble
+* Contributors: Marc Hanheide
 
 0.0.14 (2017-06-07)
 -------------------
