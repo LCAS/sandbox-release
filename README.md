@@ -1,3 +1,26 @@
+## sandbox (humble) - 1.0.1-1
+
+The packages in the `sandbox` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release -n -t humble -r humble sandbox` on `Thu, 30 Nov 2023 18:09:27 -0000`
+
+The `colcon_test_pkg` package was released.
+
+Version of package(s) in repository `sandbox`:
+
+- upstream repository: https://github.com/LCAS/sandbox.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## sandbox (melodic) - 0.0.14-1
 
 The packages in the `sandbox` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic sandbox` on `Thu, 07 Nov 2019 14:53:17 -0000`
