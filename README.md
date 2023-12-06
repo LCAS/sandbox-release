@@ -1,3 +1,26 @@
+## sandbox (humble) - 1.0.2-2
+
+The packages in the `sandbox` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release -t humble -r humble -y --no-web sandbox` on `Wed, 06 Dec 2023 20:40:13 -0000`
+
+The `colcon_test_pkg` package was released.
+
+Version of package(s) in repository `sandbox`:
+
+- upstream repository: https://github.com/LCAS/sandbox.git
+- release repository: https://github.com/LCAS/sandbox-release.git
+- rosdistro version: `1.0.1-1`
+- old version: `1.0.2-1`
+- new version: `1.0.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## sandbox (humble) - 1.0.2-1
 
 The packages in the `sandbox` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release -t humble -r humble -y --no-web sandbox` on `Wed, 06 Dec 2023 20:35:46 -0000`
